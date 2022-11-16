@@ -31,3 +31,30 @@ Penggabungan List dapat dilakukan dengan menggunakan Extend atau langsung dengan
 Untuk hasil perubahannya seperti ini<br/>
 ![Gambar 8](Screnshoot/ss8.png) <br/>
 
+
+### Latihan 1
+
+Latihan <br/>
+
+• Buat sebuah list sebanyak 5 elemen dengan nilai bebas<br/>
+- akses list:<br/>
+• tampilkan elemen ke 3 <br/>
+• ambil nilai elemen ke 2 sampai elemen ke 4 <br/>
+• ambil elemen terakhir <br/>
+- ubah elemen list: <br/>
+• ubah elemen ke 4 dengan nilai lainnya <br/>
+• ubah elemen ke 4 sampai dengan elemen terakhir <br/>
+- tambah elemen list: <br/>
+• ambil 2 bagian dari list pertama (A) dan jadikan list ke 2 (B) <br/>
+• tambah list B dengan nilai string <br/>
+• tambah list B dengan 3 nilai <br/>
+• gabungkan list B dengan list A <br/>
+
+ Berikut adalah Perogram nya
+ ![Gambar 9](Screnshoot/ss9.png) <br/>
+
+ Untuk hasil Perogram nya seperti ini <br/>
+ ![Gambar 10](Screnshoot/ss10.png) <br/>
+ 
+
+
