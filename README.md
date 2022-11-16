@@ -32,7 +32,7 @@ Untuk hasil perubahannya seperti ini<br/>
 ![Gambar 8](Screnshoot/ss8.png) <br/>
 
 
-### Latihan 1
+## Latihan 1
 
 Latihan <br/>
 
