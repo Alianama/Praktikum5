@@ -76,3 +76,7 @@ Buat program sederhana untuk menambahkan data kedalam sebuah<br/>
 Berikut untuk Flowchart nya
 
 ![Gambar 12](Screnshoot/ss12.jpg)
+
+Untuk pembuatan tabel nya disini saya menggunakan PrettyTable yang sudah disediakan Python cara install nya cukup dengan perintah ```pip install PrettyTable``` pada cli dan untuk cara penggunaan nya dengan import terlebih dahulu prettyTable tersebut ke dalam program kita dengan perintah
+
+``py form prettytable import PrettyTable
