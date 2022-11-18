@@ -82,3 +82,33 @@ Untuk pembuatan tabel nya disini saya menggunakan PrettyTable yang sudah disedia
 ```python
 form prettytable import PrettyTable 
 ```
+
+Setelah model berhasil di import saya membuat tabel baru seperti ini
+
+```python
+Tabel = PrettyTable(["No", "Nama", "NIM", "Nilai Tugas", "Nilai UTS", "Nilai UAS", "Nilai Akhir"])
+```
+
+lanjut dengan membuat kondisi dimana jika true maka program berjalan <br/>
+lalu meminta user untuk memasukan data sesuai dengan tabel yang tadi di buat <br/>
+dan untuk Nilai Akhir diambil dari perhitungan 3 komponen nilai ```(tugas: 30%, uts: 35%, uas: 35%)```saya menggunakan format sebagai berikut <br/>
+
+```python
+akhir = "{:.2f}".format((tugas*.30) + (uts*.35) + (uas*.35))
+```
+setelah itu memasukan semua data ke dalam tabel yang sudah di buat tadi <br/>
+Terakhir ada Decision / pilihan untuk menambah data (y/t?), apabila jawaban t (Tidak), maka program akan
+  menampilkan daftar datanya
+
+Untuk program nya seperti ini <br/>
+![Gambar 11](Screnshoot/ss11.png)<br/>
+
+Berikut hasil output program nya
+![Gambar 13](Screnshoot/ss13.png)
+
+
+
+
+
+
+

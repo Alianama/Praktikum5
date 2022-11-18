@@ -33,8 +33,8 @@ while True:
 
     #Input Pilihan jika user menginputkan y maka pilih = 'y' / true / mengulang program
     #Inputan Pilihan jika user menginputkan n maka pilih ='n' / false / Program berhenti
-    pilih = input("Apakah Ingin Memasukan data lagi? y/n \t = ")
-    if pilih == 'n':
+    pilih = input("Apakah Ingin Memasukan data lagi? y/t \t = ")
+    if pilih == 't':
             break
 
 #Untuk menampilkan tabel yang sudah di buat di atas
