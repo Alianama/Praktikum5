@@ -65,7 +65,7 @@ Untuk hasil Perogram nya seperti ini <br/>
 
 Buat program sederhana untuk menambahkan data kedalam sebuah<br/>
 
-- list dengan rincian sebagai berikut:
+- list dengan rincian sebagai berikut:<br/>
   • Progam meminta memasukkan data sebanyak-banyaknya (gunakan perulangan) <br/>
   • Tampilkan pertanyaan untuk menambah data (y/t?), apabila jawaban t (Tidak), maka program akan
   menampilkan daftar datanya.<br/>
