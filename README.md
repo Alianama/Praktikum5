@@ -65,13 +65,13 @@ Untuk hasil Perogram nya seperti ini <br/>
 
 Buat program sederhana untuk menambahkan data kedalam sebuah<br/>
 
-list dengan rincian sebagai berikut:
-• Progam meminta memasukkan data sebanyak-banyaknya (gunakan perulangan)
-• Tampilkan pertanyaan untuk menambah data (y/t?), apabila jawaban t (Tidak), maka program akan
-menampilkan daftar datanya.
-• Nilai Akhir diambil dari perhitungan 3 komponen nilai (tugas: 30%, uts: 35%, uas: 35%)
-• Buat flowchart dan penjelasan programnya pada README.md.
-• Commit dan push repository ke github.
+- list dengan rincian sebagai berikut:
+  • Progam meminta memasukkan data sebanyak-banyaknya (gunakan perulangan) <br/>
+  • Tampilkan pertanyaan untuk menambah data (y/t?), apabila jawaban t (Tidak), maka program akan
+  menampilkan daftar datanya.<br/>
+  • Nilai Akhir diambil dari perhitungan 3 komponen nilai (tugas: 30%, uts: 35%, uas: 35%)<br/>
+  • Buat flowchart dan penjelasan programnya pada README.md.<br/>
+  • Commit dan push repository ke github.<br/>
 
 Berikut untuk Flowchart nya
 
