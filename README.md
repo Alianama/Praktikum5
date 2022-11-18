@@ -1,5 +1,5 @@
 # PRAKTIKUM 5 BELAJAR LIST 🤡
-## Praktikum 5 🧑‍🚀
+
 ## LIST 🤖
 
 ### 1. Membuat List 👺
