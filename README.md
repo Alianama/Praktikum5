@@ -79,6 +79,6 @@ Berikut untuk Flowchart nya
 
 Untuk pembuatan tabel nya disini saya menggunakan PrettyTable yang sudah disediakan Python cara install nya cukup dengan perintah ```pip install PrettyTable``` pada cli dan untuk cara penggunaan nya dengan import terlebih dahulu prettyTable tersebut ke dalam program kita dengan perintah
 
-```sh
+```python
 form prettytable import PrettyTable 
 ```
