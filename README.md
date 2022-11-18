@@ -32,7 +32,7 @@ Untuk hasil perubahannya seperti ini<br/>
 ![Gambar 8](Screnshoot/ss8.png) <br/>
 
 
-## Latihan 1
+    ## Latihan 1
 
 Latihan <br/>
 
@@ -50,11 +50,33 @@ Latihan <br/>
 • tambah list B dengan 3 nilai <br/>
 • gabungkan list B dengan list A <br/>
 
- Berikut adalah Perogram nya
- ![Gambar 9](Screnshoot/ss9.png) <br/>
+Berikut adalah Perogram nya
+![Gambar 9](Screnshoot/ss9.png) <br/>
 
- Untuk hasil Perogram nya seperti ini <br/>
- ![Gambar 10](Screnshoot/ss10.png) <br/>
+Untuk hasil Perogram nya seperti ini <br/>
+![Gambar 10](Screnshoot/ss10.png) <br/>
+
+ 
+## Praktikum 5 
+
+### Deskripsi Program 
+
+Buat program sederhana untuk menambahkan data kedalam sebuah<br/>
+
+list dengan rincian sebagai berikut:
+• Progam meminta memasukkan data sebanyak-banyaknya (gunakan perulangan)
+• Tampilkan pertanyaan untuk menambah data (y/t?), apabila jawaban t (Tidak), maka program akan
+    menampilkan daftar datanya.
+• Nilai Akhir diambil dari perhitungan 3 komponen nilai (tugas: 30%, uts: 35%, uas: 35%)
+• Buat flowchart dan penjelasan programnya pada README.md.
+• Commit dan push repository ke github.
+
+Berikut untuk Flowchart nya
+
+![Gambar 12](Screnshoot/ss12.jpg)
+
+
+
  
 
 
